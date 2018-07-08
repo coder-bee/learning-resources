@@ -1,2 +1,3 @@
 # learning-resources
-Any learning resources that might be useful for a development newbie
+
+[Command line primer](https://drive.google.com/file/d/1_2LTtR6f5bFCC5wjFZc9ILA7vmru7ShK/view)
